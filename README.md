@@ -179,8 +179,8 @@ The hardware system publishes readings to an MQTT broker. This Python logger rep
 
 ## Author
 
-**Jay** — Final Year ECE Student  
-Interests: Embedded Systems · IoT · Automotive Firmware · Cold Chain Logistics
+**Jay** 
+Interests: Embedded Systems · IoT · Automotive Firmware · Cold Chain Logistics · Software Development 
 
 ---
 
